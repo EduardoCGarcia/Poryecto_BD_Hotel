@@ -11,6 +11,7 @@ require 'Includes/Conexion.php';
     <link rel="stylesheet" type="text/css" href="CSS/Header.css?ts=<?= time() ?>&quot;">
     <link rel="stylesheet" type="text/css" href="CSS/Index.css?ts=<?= time() ?>&quot;">
     <link rel="stylesheet" type="text/css" href="CSS/Design.css?ts=<?= time() ?>&quot;">
+    Hola este es un mesaje de prueba
 </head>
 
 <body background="Imagenes/hoteles.jpg" width="100%" height="100%">
