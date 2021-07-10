@@ -1,0 +1,59 @@
+html{
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+body{
+    width: 100%;
+    background-color: black;
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+header{
+    width:100%;
+    height:100px;
+    background-color: gray;
+    padding: 0;
+    margin: 0;
+}
+
+.TopNav{
+    width: inherit;
+    height: inherit;
+}
+
+.TopNav_Item{
+    width: 20%;
+    height: inherit;
+    font-family: "Century Gothic";
+    font-size: 18px;
+    float: left;
+    
+}
+
+li.TopNav_Item a.TopLink{
+    display: block;
+    color: white;
+    text-align: center;
+}
+
+li.TopNav_Item a.TopLink:hover{
+    background-color: #050505;
+}
+
+ul{
+    list-style-type: none;
+    float: left;
+    padding: 0;
+    margin: 0;
+}
+
+a.TopLink{
+    height: inherit;
+    padding: 35px 0;
+    box-sizing: border-box;
+}
